@@ -1,0 +1,10 @@
+{
+  "name": "Remix NagarRakshak (नगर रक्षक) - Civic Property Damage \u0026 Leadership Portal",
+  "description": "Anonymous public property damage reporting and municipal repair tracking platform for Indian citizens with leader accountability scorecards and live geospatial mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
